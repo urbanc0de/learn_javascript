@@ -58,4 +58,5 @@ console.log(substrOutcome);
 let replaceOutcome = email.replace('m', 'y');
 console.log(replaceOutcome);
 
+console.log(result);
 
